@@ -243,7 +243,7 @@ Es donde se arma la historia de usuario, la cual tiene una estructura inicial y 
       |Cable para Samsung Galaxy S20 S21 Cable Usb-C A USB-Carga Tipo C Charger C|
       |Tcl 43P615K 43 pulgadas 4K Ultra HD Smart Android Tv|
 	  
-      ##### Ejecutado con dos escenarios
+      ##### Ejecutado con dos escenarios##### Ejecutado backgrpund el cual permite ejecutar precondiciones en común con diferentes escenarios
       Feature: HU-001 Buscador Ebay
       Yo como usuario de Ebay
       Quiero buscar un producto en la plataforma
